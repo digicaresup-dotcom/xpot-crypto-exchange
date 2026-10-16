@@ -1,0 +1,10 @@
+# Node
+
+node_modules
+
+# Build
+/dist
+
+# Env
+.env
+.env.*
